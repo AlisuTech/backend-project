@@ -1,0 +1,10 @@
+BACKEND
+
+    1. End Point Controllers/APIs (Application Programmming Interface) - REST (REPRESENTATION STATE TRANSFER)
+        1. GET - Get Request (Fetch Information or Read Data from the endpoint)
+        2. POST - POST Request (Create or Add new Information to our web page)
+        3. PUT/PATCH - PUT Request (Update)
+        4. DELETE - Delete Request
+    2. Database (CRUD - Create Read Update & Delete Operations) - MongoDB
+    3. Security - Middlewares
+    4. Receiving/Response Ability - Https||Http - Encrypts - Email & Password over API

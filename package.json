@@ -1,0 +1,21 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Backend Based project with express js and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TechOrigin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "lint": "^0.8.19",
+    "mongoose": "^6.9.2",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.21",
+    "uuid": "^9.0.0"
+  }
+}
